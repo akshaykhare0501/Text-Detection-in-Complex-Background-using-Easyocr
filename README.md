@@ -1,4 +1,6 @@
 # Text-Detection-using-easyocr
 ## Required Libraries:
-opencv, cv2, easyocr
+1) opencv
+2) cv2
+3) easyocr
 
