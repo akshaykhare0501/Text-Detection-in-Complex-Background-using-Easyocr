@@ -1,6 +1,4 @@
-# Text-Detection-in-Complex-Background-using-Easyocr
+# Text-Detection-using-easyocr
 ## Required Libraries:
-opencv
-cv2
-easyocr
+opencv, cv2, easyocr
 
